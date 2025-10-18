@@ -1,0 +1,22 @@
+.lambaro{
+    background-color: rgb(220, 6, 6);
+}
+
+#form{
+    background-color: black;
+}
+
+
+input[name="aa"]{
+    background-color: blueviolet;
+}
+
+ul{
+    color: rgb(195, 21, 47);
+    background-image: url(Untitled-2.png);
+    background-repeat: no;
+    border: 2px double rgb(102, 102, 98);
+
+}
+
+
